@@ -10,12 +10,11 @@
 
 ![opioid_overdose_deaths](https://user-images.githubusercontent.com/31700068/44609431-6c6b8780-a7ac-11e8-83a5-b11f035fa901.png)
 
+![prescriptions_dispensed](https://user-images.githubusercontent.com/31700068/44609478-a0df4380-a7ac-11e8-8a86-076ca3cac12e.png)
+
 ![death_rate_2014](https://user-images.githubusercontent.com/31700068/44609301-f6672080-a7ab-11e8-91fe-feb473c86644.png)
 
 ![death_by_age](https://user-images.githubusercontent.com/31700068/44609132-5f01cd80-a7ab-11e8-89e7-88559797aa65.png)
-
-
-
 
 ### Dependencies:
 
