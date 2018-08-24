@@ -24,7 +24,7 @@
 </ol>
 
 ### Links to render on nbviewer:
-#### <a href="">Opioid overdose analysi</a>
+#### <a href="">Opioid overdose analysis</a>
 
 ### Next steps:
 <p> Few more ideas to explore: 
