@@ -10,6 +10,8 @@
 
 ![death_by_age](https://user-images.githubusercontent.com/31700068/44609132-5f01cd80-a7ab-11e8-89e7-88559797aa65.png)
 
+![deaths_by_drugs](https://user-images.githubusercontent.com/31700068/44609221-a5efc300-a7ab-11e8-844b-5d96689fc3d8.png)
+
 
 
 ### Dependencies:
