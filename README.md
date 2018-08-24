@@ -8,7 +8,7 @@
 <p>Last year, drug overdoses killed about 72,000 Americans which is higher than the peak yearly death totals from H.I.V., car crashes or gun deaths. In comparison, more than 58,000 US soldiers died in the entire Vietnam War, nearly 55,000 Americans died of car crashes at the peak of such deaths in 1972, more than 43,000 died due to HIV/AIDS during that epidemic's peak in 1995, and nearly 40,000 died of guns during the peak of those deaths in 1993.</p>
 <p>Sources:<a href="https://www.drugabuse.gov/related-topics/trends-statistics/overdose-death-rates">National Institute on Drug Abuse</a>, <a href="https://www.vox.com/science-and-health/2017/3/23/14987892/opioid-heroin-epidemic-charts">Article from Vox</a>, <a href="https://www.nytimes.com/2018/08/15/upshot/opioids-overdose-deaths-rising-fentanyl.html"> Article from NYTimes</a>
 
-
+![death_by_age](https://user-images.githubusercontent.com/31700068/44609132-5f01cd80-a7ab-11e8-89e7-88559797aa65.png)
 
 
 
