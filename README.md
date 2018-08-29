@@ -15,6 +15,9 @@
 <p>Chart above shows that Opioid prescriptions dispensed by U.S. retailers almost doubled in 15 years(1999 -2014). It peaked in 2011, when 219 million presriptions were written by doctors for Opioid painkillers. In 1991, this number was 76 million. Source: National Institute on Drug Abuse.</p> </font>
 <p>"Escalating use of prescription opioids for pain management has drastically contributed to America's opioid epidemic."- Source: https://www.moveforwardpt.com/resources/detail/opioid-abuse-statistics-of-50-states-2</p>
 
+![drug_percent_change](https://user-images.githubusercontent.com/31700068/44808749-e5d6f180-ab81-11e8-83b5-7c4c0b8822b2.png)
+<p>Although, prescription rates have fallen, overdoses associated with Fentanyl and Heroin have risen dramatically, contributing to a sharp spike in synthetic Opioid deaths. </p>
+
 
 ### Dependencies:
 
