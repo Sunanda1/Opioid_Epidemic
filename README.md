@@ -18,6 +18,8 @@
 ![drug_percent_change](https://user-images.githubusercontent.com/31700068/44808749-e5d6f180-ab81-11e8-83b5-7c4c0b8822b2.png)
 <p>Although, prescription rates have fallen, overdoses associated with Fentanyl and Heroin have risen dramatically, contributing to a sharp spike in synthetic Opioid deaths. </p>
 
+![death_rate_2014](https://user-images.githubusercontent.com/31700068/44809213-eb810700-ab82-11e8-826c-671a96a6b44d.png)
+<p>The states with the highest Opioid overdose death rate per 100,000 standard population in 2014 include West Virginia(31.6), New Hampshire (22.8), Rhode Island(20) and New Mexico(19.9). </p>
 
 ### Dependencies:
 
