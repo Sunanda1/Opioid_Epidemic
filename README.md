@@ -9,12 +9,12 @@
 <p>Sources:<a href="https://www.drugabuse.gov/related-topics/trends-statistics/overdose-death-rates">National Institute on Drug Abuse</a>, <a href="https://www.vox.com/science-and-health/2017/3/23/14987892/opioid-heroin-epidemic-charts">Article from Vox</a>, <a href="https://www.nytimes.com/2018/08/15/upshot/opioids-overdose-deaths-rising-fentanyl.html"> Article from NYTimes</a>
 
 ![opioid_overdose_deaths](https://user-images.githubusercontent.com/31700068/44609431-6c6b8780-a7ac-11e8-83a5-b11f035fa901.png)
+<p>Chart above shows that Opioid overdose deaths across the country have risen steadily since 1999, from 8627 to 29650. That means, in 2014, more than 81 Americans died every day from an Opioid overdose( including prescription and illicit opioids). Thats a death every 17.7 minutes. </p>
 
 ![prescriptions_dispensed](https://user-images.githubusercontent.com/31700068/44609478-a0df4380-a7ac-11e8-8a86-076ca3cac12e.png)
+<p>Chart above shows that Opioid prescriptions dispensed by U.S. retailers almost doubled in 15 years(1999 -2014). It peaked in 2011, when 219 million presriptions were written by doctors for Opioid painkillers. In 1991, this number was 76 million. Source: National Institute on Drug Abuse.</p> </font>
+<p>"Escalating use of prescription opioids for pain management has drastically contributed to America's opioid epidemic."- Source: https://www.moveforwardpt.com/resources/detail/opioid-abuse-statistics-of-50-states-2</p>
 
-![death_rate_2014](https://user-images.githubusercontent.com/31700068/44609301-f6672080-a7ab-11e8-91fe-feb473c86644.png)
-
-![death_by_age](https://user-images.githubusercontent.com/31700068/44609132-5f01cd80-a7ab-11e8-89e7-88559797aa65.png)
 
 ### Dependencies:
 
